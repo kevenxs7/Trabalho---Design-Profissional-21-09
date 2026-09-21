@@ -4,7 +4,7 @@
 
 **Integrantes do Grupo:**
 * Keveny Almeida dos Santos
-* Tayrone Henrique
+* Tayrone Henrique do Carmo
 
 ---
 
