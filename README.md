@@ -62,7 +62,7 @@ Com base em buscas recentes em plataformas de recrutamento como LinkedIn, Glassd
   * *Meta Comportamental:* Melhorar a comunicação técnica e participação em eventos de comunidade de dados.
 
 #### Feedback por Pares (Avaliação de Tayrone Henrique)
-> *"O Keveny demonstra excelente lógica de programação e facilidade com Python. Sugiro que ele comece a incluir no GitHub pequenos projetos práticos com bancos de dados relacionais (PostgreSQL/MySQL) e documente as queries no README para destacar o perfil para vagas de Engenharia de Dados."*
+> *"O Keveny é um colega muito dedicado, focado e com excelente capacidade de organização no trabalho em equipe. Embora esteja no início e construindo a sua base técnica, demonstra grande interesse e facilidade de aprendizagem. Como sugestão, recomendo que ele mantenha uma rotina diária de prática de lógica e SQL, documentando todo o seu progresso no GitHub para acompanhar a sua própria evolução"*
 
 ---
 
