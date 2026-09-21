@@ -1,10 +1,10 @@
-# Trabalho - Design Profissional - 21/09
+# Trabalho - Design Profissional - 21/09/2026
 
 # Análise de Posicionamento Profissional e Plano de Carreira em Engenharia de Dados
 
 **Integrantes do Grupo:**
-* Keveny Almeida dos Santos
-* Tayrone Henrique do Carmo
+* Keveny Almeida Dos Santos
+* Tayrone Henrique Do Carmo
 
 ---
 
